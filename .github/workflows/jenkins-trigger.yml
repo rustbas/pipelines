@@ -1,5 +1,5 @@
 name: trigger jenkins job
-on: [push, workflow_dispatch]
+on: [workflow_dispatch]
 jobs:
 
   build:
