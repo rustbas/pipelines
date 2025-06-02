@@ -11,5 +11,5 @@ jobs:
         url: "https://ci.saccada.xyz"
         user: ${{ secrets.USER }}
         token: ${{ secrets.TOKEN }}
-        job: "My first job"
+        job: "My_first_job"
 
